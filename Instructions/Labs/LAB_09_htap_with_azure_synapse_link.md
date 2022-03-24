@@ -79,7 +79,7 @@ After creating the container, we will create a new Synapse Pipeline to copy data
 
     ![The button is highlighted.](images/new-container-button.png "New Container")
 
-3. Create a new container with the following settings:
+3. Create a new container with the following settings and select **OK**:
     - **Database id**: Use the existing **CustomerProfile** database.
     - **Container id**: Enter `UserProfileHTAP`
     - **Partition key**: Enter `/userId`
