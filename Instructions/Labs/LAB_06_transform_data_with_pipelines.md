@@ -547,7 +547,7 @@ To do this, you will build a mapping data flow that performs the following tasks
         ![The source settings are configured as described.](images/data-flow-user-profiles-source-settings.png "Source settings")
 
 7. Select the **Source options** tab, then configure the following:
-
+    - **JSON Settings**: select `Array of documents`
     - **Wildcard paths**: Enter `online-user-profiles-02/*.json`
 
 8. Select the **+** to the right of the **EcommerceUserProfiles** source, then select the **Derived Column** schema modifier.
