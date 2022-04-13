@@ -47,7 +47,7 @@ Azure Synapse Analytics (ASA) is a powerful solution that handles security for m
 
 1. In the Azure Portal (<https://portal.azure.com>), browse to your lab resource group, and from the list of resources open your Synapse workspace (do not launch Synapse Studio).
 
-2. On the left menu, select **SQL Active Directory admin** and observe who is listed as a SQL Active Directory Admin. Is it a user or group?
+2. On the left menu, select **Azure Active Directory** and observe who is listed as a SQL Active Directory Admin. Is it a user or group?
 
     ![On the SQL Active Directory Admin screen, SQL Active Directory admin is selected from the left menu, and the Active Directory Admin is highlighted.](images/lab5_workspacesqladadmin.png)
 
